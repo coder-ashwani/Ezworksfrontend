@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import axios from "axios";
 
 const Form = () => {
-
   const [email, setEmail] = useState("");
   const [error, setError] = useState("");
   const [message, setMessage] = useState("");
