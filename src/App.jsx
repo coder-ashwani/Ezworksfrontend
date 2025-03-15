@@ -7,7 +7,7 @@ import Translation from "/translational.png";
 import Graphic from "/graphic.png";
 import Research from "/cardfifth.png";
 import Processingimg from "/processing.png";
-import Form from "./form";
+import Form from "./components/Form";
 
 function App() {
   return (
