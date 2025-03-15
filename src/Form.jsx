@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import axios from "axios";
 
 const Form = () => {
-  //   const emailcoming = req.body.email;
-  //
 
   const [email, setEmail] = useState("");
   const [error, setError] = useState("");
@@ -67,3 +65,4 @@ const Form = () => {
 };
 
 export default Form;
+// Compare this snippet from ezworksfrontend/src/components/Card.jsx:
